@@ -1,0 +1,12 @@
+{
+  "id": "GoogleSearchConsole",
+  "name": "Google Search Console",
+  "version": "0.1",
+  "description": "Google Search Console for Franz",
+  "main": "index.js",
+  "author": "kreativ-anders | Manuel Steinberg",
+  "license": "MIT",
+  "config": {
+    "serviceURL": "https://accounts.google.com/ServiceLogin?service=sitemaps&hl=de&continue=https://search.google.com/search-console?utm_source%3Dabout-page"
+  }
+}
